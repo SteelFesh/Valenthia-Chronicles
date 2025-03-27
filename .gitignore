@@ -53,6 +53,7 @@ ExportedObj/
 # Unity plugins
 /Assets/Plugins/*
 /Assets/Plugins.meta
+/Packages/com.singularitygroup.hotreload
 
 # Unity3D generated meta files
 *.pidb.meta
